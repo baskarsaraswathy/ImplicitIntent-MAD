@@ -21,6 +21,7 @@ Developed by: BASKAR J
 Registeration Number : 212223040025
 MainActivity.java
 ```
+```
 package com.example.implicitintent;
 
 import android.content.Intent;
